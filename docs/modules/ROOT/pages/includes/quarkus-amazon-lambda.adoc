@@ -69,7 +69,7 @@ ifndef::add-copy-button-to-env-var[]
 Environment variable: `+++QUARKUS_LAMBDA_SYNC_CLIENT_TYPE+++`
 endif::add-copy-button-to-env-var[]
 --
-a|`url`, `apache`, `aws-crt`
+a|`url`, `apache`, `apache5`, `aws-crt`
 |`+++url+++`
 
 a|icon:lock[title=Fixed at build time] [[quarkus-amazon-lambda_quarkus-lambda-async-client-type]] [.property-path]##link:#quarkus-amazon-lambda_quarkus-lambda-async-client-type[`+++quarkus.lambda.async-client.type+++`]##

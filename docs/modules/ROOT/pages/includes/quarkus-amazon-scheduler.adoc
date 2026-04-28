@@ -69,7 +69,7 @@ ifndef::add-copy-button-to-env-var[]
 Environment variable: `+++QUARKUS_EVENTBRIDGE_SCHEDULER_SYNC_CLIENT_TYPE+++`
 endif::add-copy-button-to-env-var[]
 --
-a|`url`, `apache`, `aws-crt`
+a|`url`, `apache`, `apache5`, `aws-crt`
 |`+++url+++`
 
 a|icon:lock[title=Fixed at build time] [[quarkus-amazon-scheduler_quarkus-eventbridge-scheduler-async-client-type]] [.property-path]##link:#quarkus-amazon-scheduler_quarkus-eventbridge-scheduler-async-client-type[`+++quarkus.eventbridge-scheduler.async-client.type+++`]##
