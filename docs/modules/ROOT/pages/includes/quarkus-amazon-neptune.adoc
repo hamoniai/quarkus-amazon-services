@@ -69,7 +69,7 @@ ifndef::add-copy-button-to-env-var[]
 Environment variable: `+++QUARKUS_NEPTUNE_SYNC_CLIENT_TYPE+++`
 endif::add-copy-button-to-env-var[]
 --
-a|`url`, `apache`, `aws-crt`
+a|`url`, `apache`, `apache5`, `aws-crt`
 |`+++url+++`
 
 a|icon:lock[title=Fixed at build time] [[quarkus-amazon-neptune_quarkus-neptune-async-client-type]] [.property-path]##link:#quarkus-amazon-neptune_quarkus-neptune-async-client-type[`+++quarkus.neptune.async-client.type+++`]##
